@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "Je suis le premier cube",
+            "thumbnailUrl": "assets/lion1.jfif" 
+        }
+    ],
+    [
+        {
+            "albumId": 1,
+            "id": 2,
+            "title": "Je suis le deuxieme cube",
+            "thumbnailUrl": "assets/lion2.jfif"
+        }
+    ],
+    [
+        {
+            "albumId": 1,
+            "id": 3,
+            "title": "Je suis le troisieme cube",
+            "thumbnailUrl": "assets/lion3.jfif"
+            }
+    ],
+    [
+        {
+            "albumId": 1,
+            "id": 5,
+            "title": "Je suis le Quatrieme cube",
+            "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+        }
+    ]
+]
